@@ -1,0 +1,72 @@
+[
+    {
+        "name": "AllowSpaces",
+        "type": "Integer",
+        "access": "1111"
+    },
+    {
+        "name": "CanContain",
+        "type": "String",
+        "access": "1111"
+    },
+    {
+        "name": "CanEndWith",
+        "type": "Integer",
+        "access": "1111"
+    },
+    {
+        "name": "CanStartWith",
+        "type": "String",
+        "access": "1111"
+    },
+    {
+        "name": "Id",
+        "type": "Id",
+        "access": "1111"
+    },
+    {
+        "name": "IsRequired",
+        "type": "Integer",
+        "access": "1111"
+    },
+    {
+        "name": "Label",
+        "type": "String",
+        "access": "1111"
+    },
+    {
+        "name": "MaxChars",
+        "type": "Integer",
+        "access": "1111"
+    },
+    {
+        "name": "MinChars",
+        "type": "Integer",
+        "access": "1111"
+    },
+    {
+        "name": "Name",
+        "type": "String",
+        "access": "1111"
+    },
+    {
+        "name": "OptionType",
+        "type": "Enum",
+        "access": "1111"
+    },
+    {
+        "name": "Order",
+        "type": "Integer",
+        "access": "1111"
+    },
+    {
+        "name": "ProductId",
+        "type": "Id",
+        "access": "1111"
+    },
+    {
+        "name": "TextMessage",
+        "type": "Integer",
+        "access": "1111"
+    }
+]

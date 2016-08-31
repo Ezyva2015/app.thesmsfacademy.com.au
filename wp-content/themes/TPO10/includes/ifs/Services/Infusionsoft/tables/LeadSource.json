@@ -1,0 +1,57 @@
+[
+    {
+        "name": "CostPerLead",
+        "type": "String",
+        "access": "1011"
+    },
+    {
+        "name": "Description",
+        "type": "String",
+        "access": "1011"
+    },
+    {
+        "name": "EndDate",
+        "type": "Date",
+        "access": "1011"
+    },
+    {
+        "name": "Id",
+        "type": "Id",
+        "access": "0001"
+    },
+    {
+        "name": "LeadSourceCategoryId",
+        "type": "Id",
+        "access": "1011"
+    },
+    {
+        "name": "Medium",
+        "type": "String",
+        "access": "1011"
+    },
+    {
+        "name": "Message",
+        "type": "String",
+        "access": "1011"
+    },
+    {
+        "name": "Name",
+        "type": "String",
+        "access": "1011"
+    },
+    {
+        "name": "StartDate",
+        "type": "Date",
+        "access": "1011"
+    },
+    {
+        "name": "Status",
+        "type": "String",
+        "access": "1011"
+    },
+    {
+        "name": "Vendor",
+        "type": "String",
+        "access": "1011"
+    }
+]

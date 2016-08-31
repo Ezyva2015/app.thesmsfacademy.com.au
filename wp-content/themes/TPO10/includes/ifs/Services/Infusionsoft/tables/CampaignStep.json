@@ -1,0 +1,27 @@
+[
+    {
+        "name": "CampaignId",
+        "type": "Id",
+        "access": "0001"
+    },
+    {
+        "name": "Id",
+        "type": "Id",
+        "access": "0001"
+    },
+    {
+        "name": "StepStatus",
+        "type": "String",
+        "access": "0001"
+    },
+    {
+        "name": "StepTitle",
+        "type": "String",
+        "access": "0001"
+    },
+    {
+        "name": "TemplateId",
+        "type": "Id",
+        "access": "0001"
+    }
+]

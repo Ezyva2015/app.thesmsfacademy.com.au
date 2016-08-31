@@ -1,0 +1,82 @@
+[
+    {
+        "name": "AffCode",
+        "type": "String",
+        "access": "1111"
+    },
+    {
+        "name": "AffName",
+        "type": "String",
+        "access": "1111"
+    },
+    {
+        "name": "ContactId",
+        "type": "Id",
+        "access": "1111"
+    },
+    {
+        "name": "DefCommissionType",
+        "type": "Integer",
+        "access": "1111"
+    },
+    {
+        "name": "Id",
+        "type": "Id",
+        "access": "0001"
+    },
+    {
+        "name": "LeadAmt",
+        "type": "Double",
+        "access": "1111"
+    },
+    {
+        "name": "LeadCookieFor",
+        "type": "Integer",
+        "access": "1111"
+    },
+    {
+        "name": "LeadPercent",
+        "type": "Double",
+        "access": "1111"
+    },
+    {
+        "name": "NotifyLead",
+        "type": "Integer",
+        "access": "1111"
+    },
+    {
+        "name": "NotifySale",
+        "type": "Integer",
+        "access": "1111"
+    },
+    {
+        "name": "ParentId",
+        "type": "Id",
+        "access": "1111"
+    },
+    {
+        "name": "Password",
+        "type": "String",
+        "access": "1111"
+    },
+    {
+        "name": "PayoutType",
+        "type": "Integer",
+        "access": "1111"
+    },
+    {
+        "name": "SaleAmt",
+        "type": "Double",
+        "access": "1111"
+    },
+    {
+        "name": "SalePercent",
+        "type": "Double",
+        "access": "1111"
+    },
+    {
+        "name": "Status",
+        "type": "Integer",
+        "access": "1111"
+    }
+]

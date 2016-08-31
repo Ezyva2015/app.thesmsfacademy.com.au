@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Id",
+        "type": "Id",
+        "access": "1111"
+    },
+    {
+        "name": "Notes",
+        "type": "String",
+        "access": "1111"
+    },
+    {
+        "name": "ProgramIds",
+        "type": "String",
+        "access": "1111"
+    },
+    {
+        "name": "ResourceHREF",
+        "type": "String",
+        "access": "1111"
+    },
+    {
+        "name": "ResourceHTML",
+        "type": "String",
+        "access": "1111"
+    },
+    {
+        "name": "ResourceOrder",
+        "type": "String",
+        "access": "1111"
+    },
+    {
+        "name": "ResourceType",
+        "type": "String",
+        "access": "1111"
+    },
+    {
+        "name": "Title",
+        "type": "String",
+        "access": "1111"
+    }
+]

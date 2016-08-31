@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Id",
+        "type": "Id",
+        "access": "1111"
+    },
+    {
+        "name": "IsDefault",
+        "type": "Integer",
+        "access": "1111"
+    },
+    {
+        "name": "Label",
+        "type": "String",
+        "access": "1111"
+    },
+    {
+        "name": "Name",
+        "type": "String",
+        "access": "1111"
+    },
+    {
+        "name": "OptionIndex",
+        "type": "Integer",
+        "access": "1111"
+    },
+    {
+        "name": "PriceAdjustment",
+        "type": "Double",
+        "access": "1111"
+    },
+    {
+        "name": "ProductOptionId",
+        "type": "Id",
+        "access": "1111"
+    },
+    {
+        "name": "Sku",
+        "type": "String",
+        "access": "1111"
+    }
+]

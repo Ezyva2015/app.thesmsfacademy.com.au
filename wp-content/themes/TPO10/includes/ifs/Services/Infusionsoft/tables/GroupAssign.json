@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Admin",
+        "type": "Id",
+        "access": "0001"
+    },
+    {
+        "name": "GroupId",
+        "type": "Id",
+        "access": "0001"
+    },
+    {
+        "name": "Id",
+        "type": "Id",
+        "access": "0001"
+    },
+    {
+        "name": "UserId",
+        "type": "Id",
+        "access": "0001"
+    }
+]

@@ -1,0 +1,182 @@
+[
+    {
+        "name": "BillAddress1",
+        "type": "String",
+        "access": "1011"
+    },
+    {
+        "name": "BillAddress2",
+        "type": "String",
+        "access": "1011"
+    },
+    {
+        "name": "BillCity",
+        "type": "String",
+        "access": "1011"
+    },
+    {
+        "name": "BillCountry",
+        "type": "String",
+        "access": "1011"
+    },
+    {
+        "name": "BillName",
+        "type": "String",
+        "access": "1011"
+    },
+    {
+        "name": "BillState",
+        "type": "String",
+        "access": "1011"
+    },
+    {
+        "name": "BillZip",
+        "type": "String",
+        "access": "1011"
+    },
+    {
+        "name": "CVV2",
+        "type": "String",
+        "access": "1010"
+    },
+    {
+        "name": "CardNumber",
+        "type": "String",
+        "access": "0010"
+    },
+    {
+        "name": "CardType",
+        "type": "String",
+        "access": "1011"
+    },
+    {
+        "name": "ContactId",
+        "type": "Id",
+        "access": "0011"
+    },
+    {
+        "name": "Email",
+        "type": "String",
+        "access": "1011"
+    },
+    {
+        "name": "ExpirationMonth",
+        "type": "String",
+        "access": "1011"
+    },
+    {
+        "name": "ExpirationYear",
+        "type": "String",
+        "access": "1011"
+    },
+    {
+        "name": "FirstName",
+        "type": "String",
+        "access": "1011"
+    },
+    {
+        "name": "Id",
+        "type": "Id",
+        "access": "0001"
+    },
+    {
+        "name": "Last4",
+        "type": "String",
+        "access": "0001"
+    },
+    {
+        "name": "LastName",
+        "type": "String",
+        "access": "1011"
+    },
+    {
+        "name": "MaestroIssueNumber",
+        "type": "String",
+        "access": "1011"
+    },
+    {
+        "name": "NameOnCard",
+        "type": "String",
+        "access": "1011"
+    },
+    {
+        "name": "PhoneNumber",
+        "type": "String",
+        "access": "1011"
+    },
+    {
+        "name": "ShipAddress1",
+        "type": "String",
+        "access": "1011"
+    },
+    {
+        "name": "ShipAddress2",
+        "type": "String",
+        "access": "1011"
+    },
+    {
+        "name": "ShipCity",
+        "type": "String",
+        "access": "1011"
+    },
+    {
+        "name": "ShipCompanyName",
+        "type": "String",
+        "access": "1011"
+    },
+    {
+        "name": "ShipCountry",
+        "type": "String",
+        "access": "1011"
+    },
+    {
+        "name": "ShipFirstName",
+        "type": "String",
+        "access": "1011"
+    },
+    {
+        "name": "ShipLastName",
+        "type": "String",
+        "access": "1011"
+    },
+    {
+        "name": "ShipMiddleName",
+        "type": "String",
+        "access": "1011"
+    },
+    {
+        "name": "ShipName",
+        "type": "String",
+        "access": "1011"
+    },
+    {
+        "name": "ShipPhoneNumber",
+        "type": "String",
+        "access": "1011"
+    },
+    {
+        "name": "ShipState",
+        "type": "String",
+        "access": "1011"
+    },
+    {
+        "name": "ShipZip",
+        "type": "String",
+        "access": "1011"
+    },
+    {
+        "name": "StartDateMonth",
+        "type": "String",
+        "access": "1011"
+    },
+    {
+        "name": "StartDateYear",
+        "type": "String",
+        "access": "1011"
+    },
+    {
+        "name": "Status",
+        "type": "Integer",
+        "access": "0001"
+    }
+]

@@ -1,0 +1,82 @@
+[
+    {
+        "name": "Active",
+        "type": "Boolean",
+        "access": "1011"
+    },
+    {
+        "name": "BillingType",
+        "type": "String",
+        "access": "1011"
+    },
+    {
+        "name": "DefaultCycle",
+        "type": "String",
+        "access": "1011"
+    },
+    {
+        "name": "DefaultFrequency",
+        "type": "Integer",
+        "access": "1011"
+    },
+    {
+        "name": "DefaultPrice",
+        "type": "Double",
+        "access": "1011"
+    },
+    {
+        "name": "Description",
+        "type": "String",
+        "access": "1011"
+    },
+    {
+        "name": "Family",
+        "type": "String",
+        "access": "1011"
+    },
+    {
+        "name": "HideInStore",
+        "type": "Integer",
+        "access": "1011"
+    },
+    {
+        "name": "Id",
+        "type": "Id",
+        "access": "0001"
+    },
+    {
+        "name": "LargeImage",
+        "type": "Blob",
+        "access": "1011"
+    },
+    {
+        "name": "ProductId",
+        "type": "Id",
+        "access": "1011"
+    },
+    {
+        "name": "ProgramName",
+        "type": "String",
+        "access": "1011"
+    },
+    {
+        "name": "ShortDescription",
+        "type": "String",
+        "access": "1011"
+    },
+    {
+        "name": "Sku",
+        "type": "String",
+        "access": "1011"
+    },
+    {
+        "name": "Status",
+        "type": "Integer",
+        "access": "1011"
+    },
+    {
+        "name": "Taxable",
+        "type": "Integer",
+        "access": "1011"
+    }
+]

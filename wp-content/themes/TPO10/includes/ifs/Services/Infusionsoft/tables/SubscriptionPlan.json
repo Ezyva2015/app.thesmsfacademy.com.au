@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Active",
+        "type": "Boolean",
+        "access": "1011"
+    },
+    {
+        "name": "Cycle",
+        "type": "String",
+        "access": "1011"
+    },
+    {
+        "name": "Frequency",
+        "type": "Integer",
+        "access": "1011"
+    },
+    {
+        "name": "Id",
+        "type": "Id",
+        "access": "0001"
+    },
+    {
+        "name": "PlanPrice",
+        "type": "Double",
+        "access": "1011"
+    },
+    {
+        "name": "PreAuthorizeAmount",
+        "type": "Double",
+        "access": "1011"
+    },
+    {
+        "name": "ProductId",
+        "type": "Id",
+        "access": "1011"
+    },
+    {
+        "name": "Prorate",
+        "type": "Boolean",
+        "access": "1011"
+    }
+]

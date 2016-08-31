@@ -1,0 +1,32 @@
+[
+    {
+        "name": "ContactId",
+        "type": "Id",
+        "access": "0001"
+    },
+    {
+        "name": "DateIncurred",
+        "type": "DateTime",
+        "access": "0001"
+    },
+    {
+        "name": "ExpenseAmt",
+        "type": "Double",
+        "access": "0001"
+    },
+    {
+        "name": "ExpenseType",
+        "type": "Enum",
+        "access": "0001"
+    },
+    {
+        "name": "Id",
+        "type": "Id",
+        "access": "0001"
+    },
+    {
+        "name": "TypeId",
+        "type": "Id",
+        "access": "0001"
+    }
+]

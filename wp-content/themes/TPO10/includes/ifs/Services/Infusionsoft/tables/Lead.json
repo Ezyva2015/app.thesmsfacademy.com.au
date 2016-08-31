@@ -1,0 +1,97 @@
+[
+    {
+        "name": "AffiliateId",
+        "type": "Id",
+        "access": "1111"
+    },
+    {
+        "name": "ContactID",
+        "type": "Id",
+        "access": "1111"
+    },
+    {
+        "name": "CreatedBy",
+        "type": "Id",
+        "access": "1111"
+    },
+    {
+        "name": "DateCreated",
+        "type": "DateTime",
+        "access": "1101"
+    },
+    {
+        "name": "EstimatedCloseDate",
+        "type": "DateTime",
+        "access": "1111"
+    },
+    {
+        "name": "Id",
+        "type": "Id",
+        "access": "0001"
+    },
+    {
+        "name": "LastUpdated",
+        "type": "DateTime",
+        "access": "1101"
+    },
+    {
+        "name": "LastUpdatedBy",
+        "type": "Id",
+        "access": "1111"
+    },
+    {
+        "name": "Leadsource",
+        "type": "String",
+        "access": "0011"
+    },
+    {
+        "name": "NextActionDate",
+        "type": "DateTime",
+        "access": "1111"
+    },
+    {
+        "name": "NextActionNotes",
+        "type": "String",
+        "access": "1111"
+    },
+    {
+        "name": "Objection",
+        "type": "String",
+        "access": "1111"
+    },
+    {
+        "name": "OpportunityNotes",
+        "type": "String",
+        "access": "1111"
+    },
+    {
+        "name": "OpportunityTitle",
+        "type": "String",
+        "access": "1111"
+    },
+    {
+        "name": "ProjectedRevenueHigh",
+        "type": "Double",
+        "access": "1111"
+    },
+    {
+        "name": "ProjectedRevenueLow",
+        "type": "Double",
+        "access": "1111"
+    },
+    {
+        "name": "StageID",
+        "type": "Id",
+        "access": "1111"
+    },
+    {
+        "name": "StatusID",
+        "type": "Id",
+        "access": "1111"
+    },
+    {
+        "name": "UserID",
+        "type": "Id",
+        "access": "1111"
+    }
+]

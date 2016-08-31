@@ -1,0 +1,97 @@
+[
+    {
+        "name": "Accepted",
+        "type": "Integer",
+        "access": "1111"
+    },
+    {
+        "name": "ActionDate",
+        "type": "DateTime",
+        "access": "1111"
+    },
+    {
+        "name": "ActionDescription",
+        "type": "String",
+        "access": "1111"
+    },
+    {
+        "name": "ActionType",
+        "type": "String",
+        "access": "1111"
+    },
+    {
+        "name": "CompletionDate",
+        "type": "DateTime",
+        "access": "1111"
+    },
+    {
+        "name": "ContactId",
+        "type": "Id",
+        "access": "1111"
+    },
+    {
+        "name": "CreatedBy",
+        "type": "Id",
+        "access": "1111"
+    },
+    {
+        "name": "CreationDate",
+        "type": "DateTime",
+        "access": "1111"
+    },
+    {
+        "name": "CreationNotes",
+        "type": "String",
+        "access": "1111"
+    },
+    {
+        "name": "EndDate",
+        "type": "DateTime",
+        "access": "1111"
+    },
+    {
+        "name": "Id",
+        "type": "Id",
+        "access": "0001"
+    },
+    {
+        "name": "IsAppointment",
+        "type": "Integer",
+        "access": "1111"
+    },
+    {
+        "name": "LastUpdated",
+        "type": "DateTime",
+        "access": "0001"
+    },
+    {
+        "name": "LastUpdatedBy",
+        "type": "Id",
+        "access": "0001"
+    },
+    {
+        "name": "ObjectType",
+        "type": "Enum",
+        "access": "1111"
+    },
+    {
+        "name": "OpportunityId",
+        "type": "Id",
+        "access": "1111"
+    },
+    {
+        "name": "PopupDate",
+        "type": "DateTime",
+        "access": "1111"
+    },
+    {
+        "name": "Priority",
+        "type": "Integer",
+        "access": "1111"
+    },
+    {
+        "name": "UserID",
+        "type": "Id",
+        "access": "1111"
+    }
+]

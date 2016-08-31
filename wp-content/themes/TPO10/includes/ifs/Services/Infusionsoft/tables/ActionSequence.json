@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Id",
+        "type": "Id",
+        "access": "0001"
+    },
+    {
+        "name": "TemplateName",
+        "type": "String",
+        "access": "0001"
+    },
+    {
+        "name": "VisibleToTheseUsers",
+        "type": "String",
+        "access": "0001"
+    }
+]

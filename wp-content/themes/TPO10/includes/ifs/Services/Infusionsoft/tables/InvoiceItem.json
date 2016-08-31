@@ -1,0 +1,42 @@
+[
+    {
+        "name": "CommissionStatus",
+        "type": "Integer",
+        "access": "1011"
+    },
+    {
+        "name": "DateCreated",
+        "type": "DateTime",
+        "access": "0001"
+    },
+    {
+        "name": "Description",
+        "type": "String",
+        "access": "1011"
+    },
+    {
+        "name": "Discount",
+        "type": "Double",
+        "access": "1011"
+    },
+    {
+        "name": "Id",
+        "type": "Id",
+        "access": "0001"
+    },
+    {
+        "name": "InvoiceAmt",
+        "type": "Double",
+        "access": "1011"
+    },
+    {
+        "name": "InvoiceId",
+        "type": "Id",
+        "access": "1011"
+    },
+    {
+        "name": "OrderItemId",
+        "type": "Id",
+        "access": "0001"
+    }
+]

@@ -1,0 +1,382 @@
+[
+    {
+        "name": "AccountId",
+        "type": "Id",
+        "access": "1111"
+    },
+    {
+        "name": "Address1Type",
+        "type": "String",
+        "access": "1111"
+    },
+    {
+        "name": "Address2Street1",
+        "type": "String",
+        "access": "1111"
+    },
+    {
+        "name": "Address2Street2",
+        "type": "String",
+        "access": "1111"
+    },
+    {
+        "name": "Address2Type",
+        "type": "String",
+        "access": "1111"
+    },
+    {
+        "name": "Address3Street1",
+        "type": "String",
+        "access": "1111"
+    },
+    {
+        "name": "Address3Street2",
+        "type": "String",
+        "access": "1111"
+    },
+    {
+        "name": "Address3Type",
+        "type": "String",
+        "access": "1111"
+    },
+    {
+        "name": "Anniversary",
+        "type": "Date",
+        "access": "1111"
+    },
+    {
+        "name": "AssistantName",
+        "type": "String",
+        "access": "1111"
+    },
+    {
+        "name": "AssistantPhone",
+        "type": "String",
+        "access": "1111"
+    },
+    {
+        "name": "BillingInformation",
+        "type": "String",
+        "access": "1111"
+    },
+    {
+        "name": "Birthday",
+        "type": "Date",
+        "access": "1111"
+    },
+    {
+        "name": "City",
+        "type": "String",
+        "access": "1111"
+    },
+    {
+        "name": "City2",
+        "type": "String",
+        "access": "1111"
+    },
+    {
+        "name": "City3",
+        "type": "String",
+        "access": "1111"
+    },
+    {
+        "name": "Company",
+        "type": "String",
+        "access": "1111"
+    },
+    {
+        "name": "CompanyID",
+        "type": "Id",
+        "access": "1111"
+    },
+    {
+        "name": "ContactNotes",
+        "type": "String",
+        "access": "1111"
+    },
+    {
+        "name": "ContactType",
+        "type": "String",
+        "access": "1111"
+    },
+    {
+        "name": "Country",
+        "type": "String",
+        "access": "1111"
+    },
+    {
+        "name": "Country2",
+        "type": "String",
+        "access": "1111"
+    },
+    {
+        "name": "Country3",
+        "type": "String",
+        "access": "1111"
+    },
+    {
+        "name": "CreatedBy",
+        "type": "Id",
+        "access": "0001"
+    },
+    {
+        "name": "DateCreated",
+        "type": "DateTime",
+        "access": "0001"
+    },
+    {
+        "name": "Email",
+        "type": "String",
+        "access": "1111"
+    },
+    {
+        "name": "EmailAddress2",
+        "type": "String",
+        "access": "1111"
+    },
+    {
+        "name": "EmailAddress3",
+        "type": "String",
+        "access": "1111"
+    },
+    {
+        "name": "Fax1",
+        "type": "String",
+        "access": "1111"
+    },
+    {
+        "name": "Fax1Type",
+        "type": "String",
+        "access": "1111"
+    },
+    {
+        "name": "Fax2",
+        "type": "String",
+        "access": "1111"
+    },
+    {
+        "name": "Fax2Type",
+        "type": "String",
+        "access": "1111"
+    },
+    {
+        "name": "FirstName",
+        "type": "String",
+        "access": "1111"
+    },
+    {
+        "name": "Groups",
+        "type": "String",
+        "access": "0001"
+    },
+    {
+        "name": "Id",
+        "type": "Id",
+        "access": "0001"
+    },
+    {
+        "name": "JobTitle",
+        "type": "String",
+        "access": "1111"
+    },
+    {
+        "name": "LastName",
+        "type": "String",
+        "access": "1111"
+    },
+    {
+        "name": "LastUpdated",
+        "type": "DateTime",
+        "access": "0001"
+    },
+    {
+        "name": "LastUpdatedBy",
+        "type": "Id",
+        "access": "0001"
+    },
+    {
+        "name": "MiddleName",
+        "type": "String",
+        "access": "1111"
+    },
+    {
+        "name": "Nickname",
+        "type": "String",
+        "access": "1111"
+    },
+    {
+        "name": "OwnerID",
+        "type": "Id",
+        "access": "1111"
+    },
+    {
+        "name": "Password",
+        "type": "String",
+        "access": "1111"
+    },
+    {
+        "name": "Phone1",
+        "type": "String",
+        "access": "1111"
+    },
+    {
+        "name": "Phone1Ext",
+        "type": "String",
+        "access": "1111"
+    },
+    {
+        "name": "Phone1Type",
+        "type": "String",
+        "access": "1111"
+    },
+    {
+        "name": "Phone2",
+        "type": "String",
+        "access": "1111"
+    },
+    {
+        "name": "Phone2Ext",
+        "type": "String",
+        "access": "1111"
+    },
+    {
+        "name": "Phone2Type",
+        "type": "String",
+        "access": "1111"
+    },
+    {
+        "name": "Phone3",
+        "type": "String",
+        "access": "1111"
+    },
+    {
+        "name": "Phone3Ext",
+        "type": "String",
+        "access": "1111"
+    },
+    {
+        "name": "Phone3Type",
+        "type": "String",
+        "access": "1111"
+    },
+    {
+        "name": "Phone4",
+        "type": "String",
+        "access": "1111"
+    },
+    {
+        "name": "Phone4Ext",
+        "type": "String",
+        "access": "1111"
+    },
+    {
+        "name": "Phone4Type",
+        "type": "String",
+        "access": "1111"
+    },
+    {
+        "name": "Phone5",
+        "type": "String",
+        "access": "1111"
+    },
+    {
+        "name": "Phone5Ext",
+        "type": "String",
+        "access": "1111"
+    },
+    {
+        "name": "Phone5Type",
+        "type": "String",
+        "access": "1111"
+    },
+    {
+        "name": "PostalCode",
+        "type": "String",
+        "access": "1111"
+    },
+    {
+        "name": "PostalCode2",
+        "type": "String",
+        "access": "1111"
+    },
+    {
+        "name": "PostalCode3",
+        "type": "String",
+        "access": "1111"
+    },
+    {
+        "name": "ReferralCode",
+        "type": "String",
+        "access": "1111"
+    },
+    {
+        "name": "SpouseName",
+        "type": "String",
+        "access": "1111"
+    },
+    {
+        "name": "State",
+        "type": "String",
+        "access": "1111"
+    },
+    {
+        "name": "State2",
+        "type": "String",
+        "access": "1111"
+    },
+    {
+        "name": "State3",
+        "type": "String",
+        "access": "1111"
+    },
+    {
+        "name": "StreetAddress1",
+        "type": "String",
+        "access": "1111"
+    },
+    {
+        "name": "StreetAddress2",
+        "type": "String",
+        "access": "1111"
+    },
+    {
+        "name": "Suffix",
+        "type": "String",
+        "access": "1111"
+    },
+    {
+        "name": "Title",
+        "type": "String",
+        "access": "1111"
+    },
+    {
+        "name": "Username",
+        "type": "String",
+        "access": "1111"
+    },
+    {
+        "name": "Validated",
+        "type": "String",
+        "access": "0001"
+    },
+    {
+        "name": "Website",
+        "type": "String",
+        "access": "1111"
+    },
+    {
+        "name": "ZipFour1",
+        "type": "String",
+        "access": "1111"
+    },
+    {
+        "name": "ZipFour2",
+        "type": "String",
+        "access": "1111"
+    },
+    {
+        "name": "ZipFour3",
+        "type": "String",
+        "access": "1111"
+    }
+]

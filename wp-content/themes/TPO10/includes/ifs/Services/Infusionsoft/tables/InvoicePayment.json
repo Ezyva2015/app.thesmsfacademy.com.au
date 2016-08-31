@@ -1,0 +1,37 @@
+[
+    {
+        "name": "Amt",
+        "type": "Double",
+        "access": "0001"
+    },
+    {
+        "name": "Id",
+        "type": "Id",
+        "access": "0001"
+    },
+    {
+        "name": "InvoiceId",
+        "type": "Id",
+        "access": "0001"
+    },
+    {
+        "name": "PayDate",
+        "type": "Date",
+        "access": "0001"
+    },
+    {
+        "name": "PayStatus",
+        "type": "String",
+        "access": "0001"
+    },
+    {
+        "name": "PaymentId",
+        "type": "Id",
+        "access": "0001"
+    },
+    {
+        "name": "SkipCommission",
+        "type": "Integer",
+        "access": "0001"
+    }
+]

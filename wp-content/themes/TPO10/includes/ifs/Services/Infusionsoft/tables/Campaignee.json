@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Campaign",
+        "type": "String",
+        "access": "0001"
+    },
+    {
+        "name": "CampaignId",
+        "type": "Id",
+        "access": "0001"
+    },
+    {
+        "name": "ContactId",
+        "type": "Id",
+        "access": "0001"
+    },
+    {
+        "name": "Status",
+        "type": "Enum",
+        "access": "0001"
+    }
+]

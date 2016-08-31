@@ -1,0 +1,47 @@
+[
+    {
+        "name": "DataType",
+        "type": "Integer",
+        "access": "0001"
+    },
+    {
+        "name": "DefaultValue",
+        "type": "String",
+        "access": "1001"
+    },
+    {
+        "name": "FormId",
+        "type": "Id",
+        "access": "0001"
+    },
+    {
+        "name": "GroupId",
+        "type": "Id",
+        "access": "1001"
+    },
+    {
+        "name": "Id",
+        "type": "Id",
+        "access": "0001"
+    },
+    {
+        "name": "Label",
+        "type": "String",
+        "access": "1001"
+    },
+    {
+        "name": "ListRows",
+        "type": "Integer",
+        "access": "1001"
+    },
+    {
+        "name": "Name",
+        "type": "String",
+        "access": "1001"
+    },
+    {
+        "name": "Values",
+        "type": "String",
+        "access": "1001"
+    }
+]

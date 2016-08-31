@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Id",
+        "type": "Id",
+        "access": "0001"
+    },
+    {
+        "name": "ProductCategoryId",
+        "type": "Id",
+        "access": "1011"
+    },
+    {
+        "name": "ProductId",
+        "type": "Id",
+        "access": "1011"
+    }
+]

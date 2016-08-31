@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Amt",
+        "type": "Double",
+        "access": "0001"
+    },
+    {
+        "name": "ApprCode",
+        "type": "String",
+        "access": "0001"
+    },
+    {
+        "name": "CCId",
+        "type": "Id",
+        "access": "0001"
+    },
+    {
+        "name": "Id",
+        "type": "Id",
+        "access": "0001"
+    },
+    {
+        "name": "MerchantId",
+        "type": "Id",
+        "access": "0001"
+    },
+    {
+        "name": "OrderNum",
+        "type": "String",
+        "access": "0001"
+    },
+    {
+        "name": "PaymentId",
+        "type": "Id",
+        "access": "0001"
+    },
+    {
+        "name": "RefNum",
+        "type": "String",
+        "access": "0001"
+    }
+]

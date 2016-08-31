@@ -1,0 +1,32 @@
+[
+    {
+        "name": "AmtDue",
+        "type": "Double",
+        "access": "0001"
+    },
+    {
+        "name": "AmtPaid",
+        "type": "Double",
+        "access": "0001"
+    },
+    {
+        "name": "DateDue",
+        "type": "Date",
+        "access": "0001"
+    },
+    {
+        "name": "Id",
+        "type": "Id",
+        "access": "0001"
+    },
+    {
+        "name": "PayPlanId",
+        "type": "Id",
+        "access": "0001"
+    },
+    {
+        "name": "Status",
+        "type": "Integer",
+        "access": "0001"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "name": "AmtDue",
+        "type": "Double",
+        "access": "0001"
+    },
+    {
+        "name": "DateDue",
+        "type": "Date",
+        "access": "0001"
+    },
+    {
+        "name": "FirstPayAmt",
+        "type": "Double",
+        "access": "0001"
+    },
+    {
+        "name": "Id",
+        "type": "Id",
+        "access": "0001"
+    },
+    {
+        "name": "InitDate",
+        "type": "Date",
+        "access": "0001"
+    },
+    {
+        "name": "InvoiceId",
+        "type": "Id",
+        "access": "0001"
+    },
+    {
+        "name": "StartDate",
+        "type": "Date",
+        "access": "0001"
+    },
+    {
+        "name": "Type",
+        "type": "Integer",
+        "access": "0001"
+    }
+]

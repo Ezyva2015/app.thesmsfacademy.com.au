@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Id",
+        "type": "Id",
+        "access": "0001"
+    },
+    {
+        "name": "StageName",
+        "type": "String",
+        "access": "0001"
+    },
+    {
+        "name": "StageOrder",
+        "type": "Integer",
+        "access": "0001"
+    },
+    {
+        "name": "TargetNumDays",
+        "type": "Integer",
+        "access": "0001"
+    }
+]

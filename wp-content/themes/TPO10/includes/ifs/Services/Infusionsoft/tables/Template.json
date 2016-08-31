@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Categories",
+        "type": "String",
+        "access": "0001"
+    },
+    {
+        "name": "Id",
+        "type": "Id",
+        "access": "0001"
+    },
+    {
+        "name": "PieceTitle",
+        "type": "String",
+        "access": "0001"
+    },
+    {
+        "name": "PieceType",
+        "type": "String",
+        "access": "0001"
+    }
+]

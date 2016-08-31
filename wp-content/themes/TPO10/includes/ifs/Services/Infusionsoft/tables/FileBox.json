@@ -1,0 +1,32 @@
+[
+    {
+        "name": "ContactId",
+        "type": "Id",
+        "access": "0001"
+    },
+    {
+        "name": "Extension",
+        "type": "String",
+        "access": "0001"
+    },
+    {
+        "name": "FileName",
+        "type": "String",
+        "access": "0001"
+    },
+    {
+        "name": "FileSize",
+        "type": "Long",
+        "access": "0001"
+    },
+    {
+        "name": "Id",
+        "type": "Id",
+        "access": "0001"
+    },
+    {
+        "name": "Public",
+        "type": "Integer",
+        "access": "0001"
+    }
+]

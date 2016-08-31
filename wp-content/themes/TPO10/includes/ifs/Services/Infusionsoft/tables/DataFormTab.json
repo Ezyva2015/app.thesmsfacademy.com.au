@@ -1,0 +1,17 @@
+[
+    {
+        "name": "FormId",
+        "type": "Id",
+        "access": "0001"
+    },
+    {
+        "name": "Id",
+        "type": "Id",
+        "access": "0001"
+    },
+    {
+        "name": "TabName",
+        "type": "String",
+        "access": "0001"
+    }
+]

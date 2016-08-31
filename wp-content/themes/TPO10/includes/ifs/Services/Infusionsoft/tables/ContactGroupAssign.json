@@ -1,0 +1,497 @@
+[
+    {
+        "name": "Contact.Address1Type",
+        "type": "String",
+        "access": "0001"
+    },
+    {
+        "name": "Contact.Address2Street1",
+        "type": "String",
+        "access": "0001"
+    },
+    {
+        "name": "Contact.Address2Street2",
+        "type": "String",
+        "access": "0001"
+    },
+    {
+        "name": "Contact.Address2Type",
+        "type": "String",
+        "access": "0001"
+    },
+    {
+        "name": "Contact.Address3Street1",
+        "type": "String",
+        "access": "0001"
+    },
+    {
+        "name": "Contact.Address3Street2",
+        "type": "String",
+        "access": "0001"
+    },
+    {
+        "name": "Contact.Address3Type",
+        "type": "String",
+        "access": "0001"
+    },
+    {
+        "name": "Contact.Anniversary",
+        "type": "Date",
+        "access": "0001"
+    },
+    {
+        "name": "Contact.AssistantName",
+        "type": "String",
+        "access": "0001"
+    },
+    {
+        "name": "Contact.AssistantPhone",
+        "type": "String",
+        "access": "0001"
+    },
+    {
+        "name": "Contact.BillingInformation",
+        "type": "String",
+        "access": "0001"
+    },
+    {
+        "name": "Contact.Birthday",
+        "type": "String",
+        "access": "0001"
+    },
+    {
+        "name": "Contact.City",
+        "type": "String",
+        "access": "0001"
+    },
+    {
+        "name": "Contact.City2",
+        "type": "String",
+        "access": "0001"
+    },
+    {
+        "name": "Contact.City3",
+        "type": "String",
+        "access": "0001"
+    },
+    {
+        "name": "Contact.Company",
+        "type": "String",
+        "access": "0001"
+    },
+    {
+        "name": "Contact.CompanyID",
+        "type": "Id",
+        "access": "0001"
+    },
+    {
+        "name": "Contact.ContactNotes",
+        "type": "String",
+        "access": "0001"
+    },
+    {
+        "name": "Contact.ContactType",
+        "type": "String",
+        "access": "0001"
+    },
+    {
+        "name": "Contact.Country",
+        "type": "String",
+        "access": "0001"
+    },
+    {
+        "name": "Contact.Country2",
+        "type": "String",
+        "access": "0001"
+    },
+    {
+        "name": "Contact.Country3",
+        "type": "String",
+        "access": "0001"
+    },
+    {
+        "name": "Contact.CreatedBy",
+        "type": "Id",
+        "access": "0001"
+    },
+    {
+        "name": "Contact.CustomDate1",
+        "type": "DateTime",
+        "access": "0001"
+    },
+    {
+        "name": "Contact.CustomDate2",
+        "type": "DateTime",
+        "access": "0001"
+    },
+    {
+        "name": "Contact.CustomDate3",
+        "type": "DateTime",
+        "access": "0001"
+    },
+    {
+        "name": "Contact.CustomDate4",
+        "type": "DateTime",
+        "access": "0001"
+    },
+    {
+        "name": "Contact.CustomDate5",
+        "type": "DateTime",
+        "access": "0001"
+    },
+    {
+        "name": "Contact.CustomDbl1",
+        "type": "Double",
+        "access": "0001"
+    },
+    {
+        "name": "Contact.CustomDbl2",
+        "type": "Double",
+        "access": "0001"
+    },
+    {
+        "name": "Contact.CustomDbl3",
+        "type": "Double",
+        "access": "0001"
+    },
+    {
+        "name": "Contact.CustomDbl4",
+        "type": "Double",
+        "access": "0001"
+    },
+    {
+        "name": "Contact.CustomDbl5",
+        "type": "Double",
+        "access": "0001"
+    },
+    {
+        "name": "Contact.CustomField1",
+        "type": "String",
+        "access": "0001"
+    },
+    {
+        "name": "Contact.CustomField10",
+        "type": "String",
+        "access": "0001"
+    },
+    {
+        "name": "Contact.CustomField2",
+        "type": "String",
+        "access": "0001"
+    },
+    {
+        "name": "Contact.CustomField3",
+        "type": "String",
+        "access": "0001"
+    },
+    {
+        "name": "Contact.CustomField4",
+        "type": "String",
+        "access": "0001"
+    },
+    {
+        "name": "Contact.CustomField5",
+        "type": "String",
+        "access": "0001"
+    },
+    {
+        "name": "Contact.CustomField6",
+        "type": "String",
+        "access": "0001"
+    },
+    {
+        "name": "Contact.CustomField7",
+        "type": "String",
+        "access": "0001"
+    },
+    {
+        "name": "Contact.CustomField8",
+        "type": "String",
+        "access": "0001"
+    },
+    {
+        "name": "Contact.CustomField9",
+        "type": "String",
+        "access": "0001"
+    },
+    {
+        "name": "Contact.DateCreated",
+        "type": "DateTime",
+        "access": "0001"
+    },
+    {
+        "name": "Contact.Email",
+        "type": "String",
+        "access": "0001"
+    },
+    {
+        "name": "Contact.EmailAddress2",
+        "type": "String",
+        "access": "0001"
+    },
+    {
+        "name": "Contact.EmailAddress3",
+        "type": "String",
+        "access": "0001"
+    },
+    {
+        "name": "Contact.Fax1",
+        "type": "String",
+        "access": "0001"
+    },
+    {
+        "name": "Contact.Fax1Type",
+        "type": "String",
+        "access": "0001"
+    },
+    {
+        "name": "Contact.Fax2",
+        "type": "String",
+        "access": "0001"
+    },
+    {
+        "name": "Contact.Fax2Type",
+        "type": "String",
+        "access": "0001"
+    },
+    {
+        "name": "Contact.FirstName",
+        "type": "String",
+        "access": "0001"
+    },
+    {
+        "name": "Contact.Groups",
+        "type": "String",
+        "access": "0001"
+    },
+    {
+        "name": "Contact.HTMLSignature",
+        "type": "String",
+        "access": "0001"
+    },
+    {
+        "name": "Contact.Id",
+        "type": "Id",
+        "access": "0001"
+    },
+    {
+        "name": "Contact.JobTitle",
+        "type": "String",
+        "access": "0001"
+    },
+    {
+        "name": "Contact.LastName",
+        "type": "String",
+        "access": "0001"
+    },
+    {
+        "name": "Contact.LastUpdated",
+        "type": "String",
+        "access": "0001"
+    },
+    {
+        "name": "Contact.LastUpdatedBy",
+        "type": "String",
+        "access": "0001"
+    },
+    {
+        "name": "Contact.Leadsource",
+        "type": "String",
+        "access": "0001"
+    },
+    {
+        "name": "Contact.MiddleName",
+        "type": "String",
+        "access": "0001"
+    },
+    {
+        "name": "Contact.Nickname",
+        "type": "String",
+        "access": "0001"
+    },
+    {
+        "name": "Contact.OwnerID",
+        "type": "Id",
+        "access": "0001"
+    },
+    {
+        "name": "Contact.Phone1",
+        "type": "String",
+        "access": "0001"
+    },
+    {
+        "name": "Contact.Phone1Ext",
+        "type": "String",
+        "access": "0001"
+    },
+    {
+        "name": "Contact.Phone1Type",
+        "type": "String",
+        "access": "0001"
+    },
+    {
+        "name": "Contact.Phone2",
+        "type": "String",
+        "access": "0001"
+    },
+    {
+        "name": "Contact.Phone2Ext",
+        "type": "String",
+        "access": "0001"
+    },
+    {
+        "name": "Contact.Phone2Type",
+        "type": "String",
+        "access": "0001"
+    },
+    {
+        "name": "Contact.Phone3",
+        "type": "String",
+        "access": "0001"
+    },
+    {
+        "name": "Contact.Phone3Ext",
+        "type": "String",
+        "access": "0001"
+    },
+    {
+        "name": "Contact.Phone3Type",
+        "type": "String",
+        "access": "0001"
+    },
+    {
+        "name": "Contact.Phone4",
+        "type": "String",
+        "access": "0001"
+    },
+    {
+        "name": "Contact.Phone4Ext",
+        "type": "String",
+        "access": "0001"
+    },
+    {
+        "name": "Contact.Phone4Type",
+        "type": "String",
+        "access": "0001"
+    },
+    {
+        "name": "Contact.Phone5",
+        "type": "String",
+        "access": "0001"
+    },
+    {
+        "name": "Contact.Phone5Ext",
+        "type": "String",
+        "access": "0001"
+    },
+    {
+        "name": "Contact.Phone5Type",
+        "type": "String",
+        "access": "0001"
+    },
+    {
+        "name": "Contact.PostalCode",
+        "type": "String",
+        "access": "0001"
+    },
+    {
+        "name": "Contact.PostalCode2",
+        "type": "String",
+        "access": "0001"
+    },
+    {
+        "name": "Contact.PostalCode3",
+        "type": "String",
+        "access": "0001"
+    },
+    {
+        "name": "Contact.ReferralCode",
+        "type": "String",
+        "access": "0001"
+    },
+    {
+        "name": "Contact.Signature",
+        "type": "String",
+        "access": "0001"
+    },
+    {
+        "name": "Contact.SpouseName",
+        "type": "String",
+        "access": "0001"
+    },
+    {
+        "name": "Contact.State",
+        "type": "String",
+        "access": "0001"
+    },
+    {
+        "name": "Contact.State2",
+        "type": "String",
+        "access": "0001"
+    },
+    {
+        "name": "Contact.State3",
+        "type": "String",
+        "access": "0001"
+    },
+    {
+        "name": "Contact.StreetAddress1",
+        "type": "String",
+        "access": "0001"
+    },
+    {
+        "name": "Contact.StreetAddress2",
+        "type": "String",
+        "access": "0001"
+    },
+    {
+        "name": "Contact.Suffix",
+        "type": "String",
+        "access": "0001"
+    },
+    {
+        "name": "Contact.Title",
+        "type": "String",
+        "access": "0001"
+    },
+    {
+        "name": "Contact.Website",
+        "type": "String",
+        "access": "0001"
+    },
+    {
+        "name": "Contact.ZipFour1",
+        "type": "String",
+        "access": "0001"
+    },
+    {
+        "name": "Contact.ZipFour2",
+        "type": "String",
+        "access": "0001"
+    },
+    {
+        "name": "Contact.ZipFour3",
+        "type": "String",
+        "access": "0001"
+    },
+    {
+        "name": "ContactGroup",
+        "type": "String",
+        "access": "0001"
+    },
+    {
+        "name": "ContactId",
+        "type": "Id",
+        "access": "0001"
+    },
+    {
+        "name": "DateCreated",
+        "type": "DateTime",
+        "access": "0001"
+    },
+    {
+        "name": "GroupId",
+        "type": "Id",
+        "access": "0001"
+    }
+]

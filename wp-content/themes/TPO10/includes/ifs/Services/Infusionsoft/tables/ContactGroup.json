@@ -1,0 +1,22 @@
+[
+    {
+        "name": "GroupCategoryId",
+        "type": "Id",
+        "access": "1011"
+    },
+    {
+        "name": "GroupDescription",
+        "type": "String",
+        "access": "1011"
+    },
+    {
+        "name": "GroupName",
+        "type": "String",
+        "access": "1011"
+    },
+    {
+        "name": "Id",
+        "type": "Id",
+        "access": "0001"
+    }
+]

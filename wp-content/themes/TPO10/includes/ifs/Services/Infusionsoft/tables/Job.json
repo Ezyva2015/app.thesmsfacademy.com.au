@@ -1,0 +1,117 @@
+[
+    {
+        "name": "ContactId",
+        "type": "Id",
+        "access": "1011"
+    },
+    {
+        "name": "DateCreated",
+        "type": "DateTime",
+        "access": "0001"
+    },
+    {
+        "name": "DueDate",
+        "type": "Date",
+        "access": "1011"
+    },
+    {
+        "name": "Id",
+        "type": "Id",
+        "access": "0001"
+    },
+    {
+        "name": "JobNotes",
+        "type": "String",
+        "access": "1011"
+    },
+    {
+        "name": "JobRecurringId",
+        "type": "Id",
+        "access": "0001"
+    },
+    {
+        "name": "JobStatus",
+        "type": "String",
+        "access": "1011"
+    },
+    {
+        "name": "JobTitle",
+        "type": "String",
+        "access": "1011"
+    },
+    {
+        "name": "OrderStatus",
+        "type": "Integer",
+        "access": "1011"
+    },
+    {
+        "name": "OrderType",
+        "type": "String",
+        "access": "1011"
+    },
+    {
+        "name": "ProductId",
+        "type": "Id",
+        "access": "1011"
+    },
+    {
+        "name": "ShipCity",
+        "type": "String",
+        "access": "1011"
+    },
+    {
+        "name": "ShipCompany",
+        "type": "String",
+        "access": "1011"
+    },
+    {
+        "name": "ShipCountry",
+        "type": "String",
+        "access": "1011"
+    },
+    {
+        "name": "ShipFirstName",
+        "type": "String",
+        "access": "1011"
+    },
+    {
+        "name": "ShipLastName",
+        "type": "String",
+        "access": "1011"
+    },
+    {
+        "name": "ShipMiddleName",
+        "type": "String",
+        "access": "1011"
+    },
+    {
+        "name": "ShipPhone",
+        "type": "String",
+        "access": "1011"
+    },
+    {
+        "name": "ShipState",
+        "type": "String",
+        "access": "1011"
+    },
+    {
+        "name": "ShipStreet1",
+        "type": "String",
+        "access": "1011"
+    },
+    {
+        "name": "ShipStreet2",
+        "type": "String",
+        "access": "1011"
+    },
+    {
+        "name": "ShipZip",
+        "type": "String",
+        "access": "1011"
+    },
+    {
+        "name": "StartDate",
+        "type": "Date",
+        "access": "1011"
+    }
+]

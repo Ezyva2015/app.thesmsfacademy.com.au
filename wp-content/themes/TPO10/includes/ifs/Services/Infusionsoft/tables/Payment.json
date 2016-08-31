@@ -1,0 +1,62 @@
+[
+    {
+        "name": "ChargeId",
+        "type": "Id",
+        "access": "0001"
+    },
+    {
+        "name": "Commission",
+        "type": "Integer",
+        "access": "0001"
+    },
+    {
+        "name": "ContactId",
+        "type": "Id",
+        "access": "0001"
+    },
+    {
+        "name": "Id",
+        "type": "Id",
+        "access": "0001"
+    },
+    {
+        "name": "InvoiceId",
+        "type": "Id",
+        "access": "0001"
+    },
+    {
+        "name": "PayAmt",
+        "type": "Double",
+        "access": "0001"
+    },
+    {
+        "name": "PayDate",
+        "type": "Date",
+        "access": "0001"
+    },
+    {
+        "name": "PayNote",
+        "type": "String",
+        "access": "0001"
+    },
+    {
+        "name": "PayType",
+        "type": "String",
+        "access": "0001"
+    },
+    {
+        "name": "RefundId",
+        "type": "Id",
+        "access": "0001"
+    },
+    {
+        "name": "Synced",
+        "type": "Integer",
+        "access": "0001"
+    },
+    {
+        "name": "UserId",
+        "type": "Id",
+        "access": "0001"
+    }
+]

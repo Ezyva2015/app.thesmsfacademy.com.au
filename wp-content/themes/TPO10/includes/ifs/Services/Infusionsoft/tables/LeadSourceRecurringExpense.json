@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Amount",
+        "type": "Double",
+        "access": "1111"
+    },
+    {
+        "name": "EndDate",
+        "type": "DateTime",
+        "access": "1111"
+    },
+    {
+        "name": "Id",
+        "type": "Id",
+        "access": "0001"
+    },
+    {
+        "name": "LeadSourceId",
+        "type": "Id",
+        "access": "1111"
+    },
+    {
+        "name": "NextExpenseDate",
+        "type": "DateTime",
+        "access": "1111"
+    },
+    {
+        "name": "Notes",
+        "type": "String",
+        "access": "1111"
+    },
+    {
+        "name": "StartDate",
+        "type": "DateTime",
+        "access": "1111"
+    },
+    {
+        "name": "Title",
+        "type": "String",
+        "access": "1111"
+    }
+]

@@ -1,0 +1,127 @@
+[
+    {
+        "name": "City",
+        "type": "String",
+        "access": "0001"
+    },
+    {
+        "name": "Email",
+        "type": "String",
+        "access": "0001"
+    },
+    {
+        "name": "EmailAddress2",
+        "type": "String",
+        "access": "0001"
+    },
+    {
+        "name": "EmailAddress3",
+        "type": "String",
+        "access": "0001"
+    },
+    {
+        "name": "FirstName",
+        "type": "String",
+        "access": "0001"
+    },
+    {
+        "name": "HTMLSignature",
+        "type": "String",
+        "access": "0001"
+    },
+    {
+        "name": "Id",
+        "type": "Id",
+        "access": "0001"
+    },
+    {
+        "name": "LastName",
+        "type": "String",
+        "access": "0001"
+    },
+    {
+        "name": "MiddleName",
+        "type": "String",
+        "access": "0001"
+    },
+    {
+        "name": "Nickname",
+        "type": "String",
+        "access": "0001"
+    },
+    {
+        "name": "Phone1",
+        "type": "String",
+        "access": "0001"
+    },
+    {
+        "name": "Phone1Ext",
+        "type": "String",
+        "access": "0001"
+    },
+    {
+        "name": "Phone1Type",
+        "type": "String",
+        "access": "0001"
+    },
+    {
+        "name": "Phone2",
+        "type": "String",
+        "access": "0001"
+    },
+    {
+        "name": "Phone2Ext",
+        "type": "String",
+        "access": "0001"
+    },
+    {
+        "name": "Phone2Type",
+        "type": "String",
+        "access": "0001"
+    },
+    {
+        "name": "PostalCode",
+        "type": "String",
+        "access": "0001"
+    },
+    {
+        "name": "Signature",
+        "type": "String",
+        "access": "0001"
+    },
+    {
+        "name": "SpouseName",
+        "type": "String",
+        "access": "0001"
+    },
+    {
+        "name": "State",
+        "type": "String",
+        "access": "0001"
+    },
+    {
+        "name": "StreetAddress1",
+        "type": "String",
+        "access": "0001"
+    },
+    {
+        "name": "StreetAddress2",
+        "type": "String",
+        "access": "0001"
+    },
+    {
+        "name": "Suffix",
+        "type": "String",
+        "access": "0001"
+    },
+    {
+        "name": "Title",
+        "type": "String",
+        "access": "0001"
+    },
+    {
+        "name": "ZipFour1",
+        "type": "String",
+        "access": "0001"
+    }
+]

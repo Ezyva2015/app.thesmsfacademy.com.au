@@ -1,0 +1,47 @@
+[
+    {
+        "name": "AutoCharge",
+        "type": "Integer",
+        "access": "1011"
+    },
+    {
+        "name": "DateCreated",
+        "type": "DateTime",
+        "access": "0001"
+    },
+    {
+        "name": "Description",
+        "type": "String",
+        "access": "1011"
+    },
+    {
+        "name": "EndDate",
+        "type": "Date",
+        "access": "1011"
+    },
+    {
+        "name": "Id",
+        "type": "Id",
+        "access": "0001"
+    },
+    {
+        "name": "InvoiceItemId",
+        "type": "Id",
+        "access": "1011"
+    },
+    {
+        "name": "RecurringId",
+        "type": "Id",
+        "access": "1011"
+    },
+    {
+        "name": "StartDate",
+        "type": "Date",
+        "access": "1011"
+    },
+    {
+        "name": "Status",
+        "type": "Integer",
+        "access": "1011"
+    }
+]

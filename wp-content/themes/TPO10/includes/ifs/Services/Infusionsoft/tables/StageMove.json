@@ -1,0 +1,47 @@
+[
+    {
+        "name": "CreatedBy",
+        "type": "Id",
+        "access": "0001"
+    },
+    {
+        "name": "DateCreated",
+        "type": "DateTime",
+        "access": "0001"
+    },
+    {
+        "name": "Id",
+        "type": "Id",
+        "access": "0001"
+    },
+    {
+        "name": "MoveDate",
+        "type": "DateTime",
+        "access": "0001"
+    },
+    {
+        "name": "MoveFromStage",
+        "type": "Id",
+        "access": "0001"
+    },
+    {
+        "name": "MoveToStage",
+        "type": "Id",
+        "access": "0001"
+    },
+    {
+        "name": "OpportunityId",
+        "type": "Id",
+        "access": "0001"
+    },
+    {
+        "name": "PrevStageMoveDate",
+        "type": "DateTime",
+        "access": "0001"
+    },
+    {
+        "name": "UserId",
+        "type": "Id",
+        "access": "0001"
+    }
+]

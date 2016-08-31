@@ -1,0 +1,37 @@
+[
+    {
+        "name": "DiscountPercent",
+        "type": "Integer",
+        "access": "1111"
+    },
+    {
+        "name": "Id",
+        "type": "Id",
+        "access": "0001"
+    },
+    {
+        "name": "ObjType",
+        "type": "String",
+        "access": "1111"
+    },
+    {
+        "name": "ObjectId",
+        "type": "Id",
+        "access": "1111"
+    },
+    {
+        "name": "ProductId",
+        "type": "Id",
+        "access": "1111"
+    },
+    {
+        "name": "ProductType",
+        "type": "String",
+        "access": "1111"
+    },
+    {
+        "name": "Qty",
+        "type": "Integer",
+        "access": "1111"
+    }
+]

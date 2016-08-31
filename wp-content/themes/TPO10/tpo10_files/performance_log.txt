@@ -1,0 +1,84 @@
+2014-01-16 04:07:43 Generated in 1.25 seconds
+2014-01-16 04:07:44 Compiled in 1.45 seconds (total)
+
+Peak Memory usage 81.50 MB
+PDF file size 49 kB
+Number of fonts 4
+2014-01-16 04:07:46 Generated in 1.28 seconds
+2014-01-16 04:07:46 Compiled in 1.47 seconds (total)
+
+Peak Memory usage 83.75 MB
+PDF file size 49 kB
+Number of fonts 4
+2014-01-16 04:09:05 Generated in 1.31 seconds
+2014-01-16 04:09:06 Compiled in 1.53 seconds (total)
+
+Peak Memory usage 81.75 MB
+PDF file size 49 kB
+Number of fonts 4
+2014-01-16 04:09:08 Generated in 1.14 seconds
+2014-01-16 04:09:08 Compiled in 1.33 seconds (total)
+
+Peak Memory usage 83.75 MB
+PDF file size 49 kB
+Number of fonts 4
+2014-02-03 10:25:27 Generated in 1.11 seconds
+2014-02-03 10:25:27 Compiled in 1.31 seconds (total)
+
+Peak Memory usage 85.50 MB
+PDF file size 49 kB
+Number of fonts 4
+2014-02-03 10:25:30 Generated in 1.04 seconds
+2014-02-03 10:25:30 Compiled in 1.23 seconds (total)
+
+Peak Memory usage 87.75 MB
+PDF file size 49 kB
+Number of fonts 4
+2014-02-03 10:31:23 Generated in 1.04 seconds
+2014-02-03 10:31:23 Compiled in 1.24 seconds (total)
+
+Peak Memory usage 85.75 MB
+PDF file size 49 kB
+Number of fonts 4
+2014-02-03 10:31:25 Generated in 1.07 seconds
+2014-02-03 10:31:25 Compiled in 1.25 seconds (total)
+
+Peak Memory usage 88.00 MB
+PDF file size 49 kB
+Number of fonts 4
+2014-02-03 10:52:03 Generated in 1.22 seconds
+2014-02-03 10:52:03 Compiled in 1.44 seconds (total)
+
+Peak Memory usage 85.50 MB
+PDF file size 49 kB
+Number of fonts 3
+2014-02-03 10:52:06 Generated in 1.17 seconds
+2014-02-03 10:52:06 Compiled in 1.38 seconds (total)
+
+Peak Memory usage 87.75 MB
+PDF file size 49 kB
+Number of fonts 3
+2014-02-03 10:52:21 Generated in 1.37 seconds
+2014-02-03 10:52:21 Compiled in 1.63 seconds (total)
+
+Peak Memory usage 85.75 MB
+PDF file size 49 kB
+Number of fonts 3
+2014-02-03 10:52:24 Generated in 1.32 seconds
+2014-02-03 10:52:24 Compiled in 1.52 seconds (total)
+
+Peak Memory usage 87.75 MB
+PDF file size 49 kB
+Number of fonts 3
+2014-02-03 10:59:24 Generated in 0.74 seconds
+2014-02-03 10:59:24 Compiled in 0.93 seconds (total)
+
+Peak Memory usage 85.75 MB
+PDF file size 45 kB
+Number of fonts 3
+2014-02-03 10:59:26 Generated in 0.71 seconds
+2014-02-03 10:59:26 Compiled in 0.89 seconds (total)
+
+Peak Memory usage 87.75 MB
+PDF file size 45 kB
+Number of fonts 3

@@ -1,0 +1,17 @@
+[
+    {
+        "name": "BundleName",
+        "type": "String",
+        "access": "1011"
+    },
+    {
+        "name": "Description",
+        "type": "String",
+        "access": "1011"
+    },
+    {
+        "name": "Id",
+        "type": "Id",
+        "access": "0001"
+    }
+]

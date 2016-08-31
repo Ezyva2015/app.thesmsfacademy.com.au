@@ -1,0 +1,47 @@
+[
+    {
+        "name": "AffiliateId",
+        "type": "Id",
+        "access": "0011"
+    },
+    {
+        "name": "ContactId",
+        "type": "Id",
+        "access": "0011"
+    },
+    {
+        "name": "DateExpires",
+        "type": "Date",
+        "access": "0011"
+    },
+    {
+        "name": "DateSet",
+        "type": "Date",
+        "access": "0011"
+    },
+    {
+        "name": "IPAddress",
+        "type": "String",
+        "access": "0011"
+    },
+    {
+        "name": "Id",
+        "type": "Id",
+        "access": "0001"
+    },
+    {
+        "name": "Info",
+        "type": "String",
+        "access": "0011"
+    },
+    {
+        "name": "Source",
+        "type": "String",
+        "access": "0011"
+    },
+    {
+        "name": "Type",
+        "type": "Integer",
+        "access": "0011"
+    }
+]

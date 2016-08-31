@@ -1,0 +1,112 @@
+[
+    {
+        "name": "BottomHTML",
+        "type": "String",
+        "access": "1011"
+    },
+    {
+        "name": "CityTaxable",
+        "type": "Integer",
+        "access": "1011"
+    },
+    {
+        "name": "CountryTaxable",
+        "type": "Integer",
+        "access": "1011"
+    },
+    {
+        "name": "Description",
+        "type": "String",
+        "access": "1011"
+    },
+    {
+        "name": "HideInStore",
+        "type": "Integer",
+        "access": "1011"
+    },
+    {
+        "name": "Id",
+        "type": "Id",
+        "access": "0001"
+    },
+    {
+        "name": "InventoryLimit",
+        "type": "Integer",
+        "access": "1011"
+    },
+    {
+        "name": "InventoryNotifiee",
+        "type": "String",
+        "access": "1011"
+    },
+    {
+        "name": "IsPackage",
+        "type": "Integer",
+        "access": "1011"
+    },
+    {
+        "name": "LargeImage",
+        "type": "Blob",
+        "access": "1011"
+    },
+    {
+        "name": "NeedsDigitalDelivery",
+        "type": "Integer",
+        "access": "1011"
+    },
+    {
+        "name": "ProductName",
+        "type": "String",
+        "access": "1011"
+    },
+    {
+        "name": "ProductPrice",
+        "type": "Double",
+        "access": "1011"
+    },
+    {
+        "name": "Shippable",
+        "type": "Integer",
+        "access": "1011"
+    },
+    {
+        "name": "ShippingTime",
+        "type": "String",
+        "access": "1011"
+    },
+    {
+        "name": "ShortDescription",
+        "type": "String",
+        "access": "1011"
+    },
+    {
+        "name": "Sku",
+        "type": "String",
+        "access": "1011"
+    },
+    {
+        "name": "StateTaxable",
+        "type": "Integer",
+        "access": "1011"
+    },
+    {
+        "name": "Status",
+        "type": "Integer",
+        "access": "1011"
+    },
+    {
+        "name": "Taxable",
+        "type": "Integer",
+        "access": "1011"
+    },
+    {
+        "name": "TopHTML",
+        "type": "String",
+        "access": "1011"
+    },
+    {
+        "name": "Weight",
+        "type": "Double",
+        "access": "1011"
+    }
+]

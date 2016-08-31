@@ -1,0 +1,17 @@
+[
+    {
+        "name": "CategoryDescription",
+        "type": "String",
+        "access": "1011"
+    },
+    {
+        "name": "CategoryName",
+        "type": "String",
+        "access": "1011"
+    },
+    {
+        "name": "Id",
+        "type": "Id",
+        "access": "0001"
+    }
+]

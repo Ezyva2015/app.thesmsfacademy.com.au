@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Description",
+        "type": "String",
+        "access": "1011"
+    },
+    {
+        "name": "Id",
+        "type": "Id",
+        "access": "0001"
+    },
+    {
+        "name": "Name",
+        "type": "String",
+        "access": "1011"
+    }
+]

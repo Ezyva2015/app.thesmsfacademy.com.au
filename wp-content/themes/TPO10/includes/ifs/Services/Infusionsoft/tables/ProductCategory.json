@@ -1,0 +1,27 @@
+[
+    {
+        "name": "CategoryDisplayName",
+        "type": "String",
+        "access": "1111"
+    },
+    {
+        "name": "CategoryImage",
+        "type": "Blob",
+        "access": "1111"
+    },
+    {
+        "name": "CategoryOrder",
+        "type": "Integer",
+        "access": "1111"
+    },
+    {
+        "name": "Id",
+        "type": "Id",
+        "access": "0001"
+    },
+    {
+        "name": "ParentId",
+        "type": "Id",
+        "access": "1111"
+    }
+]

@@ -1,0 +1,57 @@
+[
+    {
+        "name": "CPU",
+        "type": "Double",
+        "access": "1011"
+    },
+    {
+        "name": "Id",
+        "type": "Id",
+        "access": "0001"
+    },
+    {
+        "name": "ItemDescription",
+        "type": "String",
+        "access": "1011"
+    },
+    {
+        "name": "ItemName",
+        "type": "String",
+        "access": "1011"
+    },
+    {
+        "name": "ItemType",
+        "type": "Integer",
+        "access": "1011"
+    },
+    {
+        "name": "Notes",
+        "type": "String",
+        "access": "1011"
+    },
+    {
+        "name": "OrderId",
+        "type": "Id",
+        "access": "1011"
+    },
+    {
+        "name": "PPU",
+        "type": "Double",
+        "access": "1011"
+    },
+    {
+        "name": "ProductId",
+        "type": "Id",
+        "access": "1011"
+    },
+    {
+        "name": "Qty",
+        "type": "Integer",
+        "access": "1011"
+    },
+    {
+        "name": "SubscriptionPlanId",
+        "type": "Id",
+        "access": "1011"
+    }
+]

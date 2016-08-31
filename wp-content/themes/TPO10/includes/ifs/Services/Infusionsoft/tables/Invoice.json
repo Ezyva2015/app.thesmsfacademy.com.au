@@ -1,0 +1,92 @@
+[
+    {
+        "name": "AffiliateId",
+        "type": "Id",
+        "access": "0001"
+    },
+    {
+        "name": "ContactId",
+        "type": "Id",
+        "access": "0001"
+    },
+    {
+        "name": "CreditStatus",
+        "type": "Integer",
+        "access": "0001"
+    },
+    {
+        "name": "DateCreated",
+        "type": "DateTime",
+        "access": "0001"
+    },
+    {
+        "name": "Description",
+        "type": "String",
+        "access": "0001"
+    },
+    {
+        "name": "Id",
+        "type": "Id",
+        "access": "0001"
+    },
+    {
+        "name": "InvoiceTotal",
+        "type": "Double",
+        "access": "0001"
+    },
+    {
+        "name": "InvoiceType",
+        "type": "String",
+        "access": "0001"
+    },
+    {
+        "name": "JobId",
+        "type": "Id",
+        "access": "0001"
+    },
+    {
+        "name": "LeadAffiliateId",
+        "type": "Id",
+        "access": "0001"
+    },
+    {
+        "name": "PayPlanStatus",
+        "type": "Integer",
+        "access": "0001"
+    },
+    {
+        "name": "PayStatus",
+        "type": "Integer",
+        "access": "0001"
+    },
+    {
+        "name": "ProductSold",
+        "type": "String",
+        "access": "0001"
+    },
+    {
+        "name": "PromoCode",
+        "type": "String",
+        "access": "0001"
+    },
+    {
+        "name": "RefundStatus",
+        "type": "Integer",
+        "access": "0001"
+    },
+    {
+        "name": "Synced",
+        "type": "Integer",
+        "access": "0001"
+    },
+    {
+        "name": "TotalDue",
+        "type": "Double",
+        "access": "0001"
+    },
+    {
+        "name": "TotalPaid",
+        "type": "Double",
+        "access": "0001"
+    }
+]

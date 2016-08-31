@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Current",
+        "type": "Date",
+        "access": "0001"
+    },
+    {
+        "name": "DayOfWeek",
+        "type": "String",
+        "access": "0001"
+    },
+    {
+        "name": "DayOfMonth",
+        "type": "Integer",
+        "access": "0001"
+    },
+    {
+        "name": "Month",
+        "type": "String",
+        "access": "0001"
+    },
+    {
+        "name": "MonthOfYear",
+        "type": "Integer",
+        "access": "0001"
+    },
+    {
+        "name": "Year",
+        "type": "Integer",
+        "access": "0001"
+    }
+]

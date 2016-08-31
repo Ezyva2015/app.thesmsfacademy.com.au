@@ -1,0 +1,262 @@
+[
+    {
+        "name": "AffiliateId",
+        "type": "Id",
+        "access": "0001"
+    },
+    {
+        "name": "AutoCharge",
+        "type": "Integer",
+        "access": "0001"
+    },
+    {
+        "name": "BillingAmt",
+        "type": "Double",
+        "access": "0001"
+    },
+    {
+        "name": "BillingCycle",
+        "type": "String",
+        "access": "0001"
+    },
+    {
+        "name": "CC1",
+        "type": "Id",
+        "access": "0001"
+    },
+    {
+        "name": "CC2",
+        "type": "Id",
+        "access": "0001"
+    },
+    {
+        "name": "City",
+        "type": "String",
+        "access": "0001"
+    },
+    {
+        "name": "ContactId",
+        "type": "Id",
+        "access": "0001"
+    },
+    {
+        "name": "ContactId",
+        "type": "Id",
+        "access": "0001"
+    },
+    {
+        "name": "Country",
+        "type": "String",
+        "access": "0001"
+    },
+    {
+        "name": "Email",
+        "type": "String",
+        "access": "0001"
+    },
+    {
+        "name": "EmailAddress2",
+        "type": "String",
+        "access": "0001"
+    },
+    {
+        "name": "EmailAddress3",
+        "type": "String",
+        "access": "0001"
+    },
+    {
+        "name": "EndDate",
+        "type": "Date",
+        "access": "0001"
+    },
+    {
+        "name": "FirstName",
+        "type": "String",
+        "access": "0001"
+    },
+    {
+        "name": "Frequency",
+        "type": "Integer",
+        "access": "0001"
+    },
+    {
+        "name": "HTMLSignature",
+        "type": "String",
+        "access": "0001"
+    },
+    {
+        "name": "LastBillDate",
+        "type": "Date",
+        "access": "0001"
+    },
+    {
+        "name": "LastName",
+        "type": "String",
+        "access": "0001"
+    },
+    {
+        "name": "LeadAffiliateId",
+        "type": "Id",
+        "access": "0001"
+    },
+    {
+        "name": "MaxRetry",
+        "type": "Integer",
+        "access": "0001"
+    },
+    {
+        "name": "MerchantAccountId",
+        "type": "Id",
+        "access": "0001"
+    },
+    {
+        "name": "MiddleName",
+        "type": "String",
+        "access": "0001"
+    },
+    {
+        "name": "NextBillDate",
+        "type": "Date",
+        "access": "0001"
+    },
+    {
+        "name": "Nickname",
+        "type": "String",
+        "access": "0001"
+    },
+    {
+        "name": "NumDaysBetweenRetry",
+        "type": "Integer",
+        "access": "0001"
+    },
+    {
+        "name": "PaidThruDate",
+        "type": "Date",
+        "access": "0001"
+    },
+    {
+        "name": "Phone1",
+        "type": "String",
+        "access": "0001"
+    },
+    {
+        "name": "Phone1Ext",
+        "type": "String",
+        "access": "0001"
+    },
+    {
+        "name": "Phone1Type",
+        "type": "String",
+        "access": "0001"
+    },
+    {
+        "name": "Phone2",
+        "type": "String",
+        "access": "0001"
+    },
+    {
+        "name": "Phone2Ext",
+        "type": "String",
+        "access": "0001"
+    },
+    {
+        "name": "Phone2Type",
+        "type": "String",
+        "access": "0001"
+    },
+    {
+        "name": "PostalCode",
+        "type": "String",
+        "access": "0001"
+    },
+    {
+        "name": "ProductId",
+        "type": "Id",
+        "access": "0001"
+    },
+    {
+        "name": "ProgramId",
+        "type": "Id",
+        "access": "0001"
+    },
+    {
+        "name": "PromoCode",
+        "type": "String",
+        "access": "0001"
+    },
+    {
+        "name": "Qty",
+        "type": "Integer",
+        "access": "0001"
+    },
+    {
+        "name": "ReasonStopped",
+        "type": "String",
+        "access": "0001"
+    },
+    {
+        "name": "RecurringOrderId",
+        "type": "Id",
+        "access": "0001"
+    },
+    {
+        "name": "ShippingOptionId",
+        "type": "Integer",
+        "access": "0001"
+    },
+    {
+        "name": "Signature",
+        "type": "String",
+        "access": "0001"
+    },
+    {
+        "name": "SpouseName",
+        "type": "String",
+        "access": "0001"
+    },
+    {
+        "name": "StartDate",
+        "type": "Date",
+        "access": "0001"
+    },
+    {
+        "name": "State",
+        "type": "String",
+        "access": "0001"
+    },
+    {
+        "name": "Status",
+        "type": "String",
+        "access": "0001"
+    },
+    {
+        "name": "StreetAddress1",
+        "type": "String",
+        "access": "0001"
+    },
+    {
+        "name": "StreetAddress2",
+        "type": "String",
+        "access": "0001"
+    },
+    {
+        "name": "SubscriptionPlanId",
+        "type": "Id",
+        "access": "0001"
+    },
+    {
+        "name": "Suffix",
+        "type": "String",
+        "access": "0001"
+    },
+    {
+        "name": "Title",
+        "type": "String",
+        "access": "0001"
+    },
+    {
+        "name": "ZipFour1",
+        "type": "String",
+        "access": "0001"
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "name": "ActualCloseDate",
+        "type": "DateTime",
+        "access": "0001"
+    },
+    {
+        "name": "ApplicationDate",
+        "type": "DateTime",
+        "access": "0001"
+    },
+    {
+        "name": "CreditReportDate",
+        "type": "DateTime",
+        "access": "0001"
+    },
+    {
+        "name": "DateAppraisalDone",
+        "type": "DateTime",
+        "access": "0001"
+    },
+    {
+        "name": "DateAppraisalOrdered",
+        "type": "DateTime",
+        "access": "0001"
+    },
+    {
+        "name": "DateAppraisalReceived",
+        "type": "DateTime",
+        "access": "0001"
+    },
+    {
+        "name": "DateRateLockExpires",
+        "type": "DateTime",
+        "access": "0001"
+    },
+    {
+        "name": "DateRateLocked",
+        "type": "DateTime",
+        "access": "0001"
+    },
+    {
+        "name": "DateTitleOrdered",
+        "type": "DateTime",
+        "access": "0001"
+    },
+    {
+        "name": "DateTitleReceived",
+        "type": "DateTime",
+        "access": "0001"
+    },
+    {
+        "name": "FundingDate",
+        "type": "DateTime",
+        "access": "0001"
+    },
+    {
+        "name": "Id",
+        "type": "Id",
+        "access": "0001"
+    }
+]

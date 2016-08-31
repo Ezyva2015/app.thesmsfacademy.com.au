@@ -1,0 +1,28 @@
+table.variations { width: 100% }
+
+.woocommerce div.product form.cart .variations select, .woocommerce #content div.product form.cart .variations select, .woocommerce-page div.product form.cart .variations select, .woocommerce-page #content div.product form.cart .variations select
+{ width: 35%; }
+
+.tippy_tip { width: auto; }
+
+a.reset_variations
+{
+	display: block !important;
+	margin: auto; 
+	width: 25%;
+	text-align: center;
+	padding-top: 6px !important;
+	padding-bottom: 6px !important;
+}
+
+#reset_variations_container
+{
+	display: block;
+	clear: both;
+	width: 48.6%;
+}
+
+.woocommerce form .form-row input.input-text, .woocommerce form .form-row textarea, .woocommerce-page form .form-row input.input-text, .woocommerce-page form .form-row textarea
+{
+	height: 32px !important;
+}
